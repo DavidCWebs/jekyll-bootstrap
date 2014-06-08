@@ -1,7 +1,4 @@
 node_modules/
+app/assets/_bower_components
 bower_components/
 *.log
-
-build/
-dist/
-_site
